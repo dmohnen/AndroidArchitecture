@@ -1,7 +1,8 @@
-package io.danmohnen.androidarchitecture;
+package io.danmohnen.androidarchitecture.home;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import io.danmohnen.androidarchitecture.R;
 
 public class MainActivity extends AppCompatActivity {
 
